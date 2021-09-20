@@ -1,0 +1,8 @@
+﻿  OSiSP_Lab1.cpp
+F:\Coding\C++\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.cpp(72,53): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+F:\Coding\C++\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.cpp(75,52): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+F:\Coding\C++\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.cpp(189,40): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+F:\Coding\C++\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.cpp(190,39): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+F:\Coding\C++\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.cpp(199,40): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+F:\Coding\C++\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.cpp(200,39): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  OSiSP_Lab1.vcxproj -> F:\Coding\C++\OSiSP_Lab1\Debug\OSiSP_Lab1.exe
